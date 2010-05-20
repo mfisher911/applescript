@@ -6,6 +6,7 @@ end tell
 tell application "System Events"
 	tell application process "System Preferences"
 		get properties
+                -- click the "Modifier Keys..." button (ellipsis is Opt-;)
 		click button "Modifier Keys…" of tab group 1 of window "Keyboard"
 		-- top menu with choice between Apple Internal Keyboard / Trackpad and Keyboard
 		click pop up button 5 of sheet 1 of window "Keyboard"
