@@ -1,0 +1,18 @@
+Repository of AppleScript workarounds
+=====================================
+
+Refresh Keyboard Prefs
+----------------------
+
+I use an external PC keyboard with a MacBook Pro. I changed its
+modifier key bindings so that the key order is more consistent with
+the Mac standard layout. Unfortunately, following a reboot, the
+preferences screen needs to be re-visited for the changed bindings to
+take effect.
+
+Toggle Overscan 
+---------------
+
+I have a Mac Mini connected to a TV. Sometimes when the Mac wakes up
+from sleep, it doesn't fill the entire screen, which requires the
+Overscan display option to be toggled.
